@@ -34,8 +34,8 @@ This script is released under the MIT License. See the [LICENSE](LICENSE) file f
 
 ## Author
 
-This script was created by [Your Name].
+This script was created by Anshul Choudhary.
 
-If you have any questions or feedback, please feel free to [contact me](mailto:youremail@example.com).
+If you have any questions or feedback, please feel free to [contact me](mailto:anshulchoudhary227@gmail.com).
 
 Enjoy generating acronyms with the Acronym Generator!
