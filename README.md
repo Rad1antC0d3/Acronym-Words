@@ -28,9 +28,6 @@ Here's an example of how to use the Acronym Generator:
 
 In this example, the script takes the sentence "Natural Language Processing" and generates the acronym "NLP" by taking the initial letters of each word.
 
-## License
-
-This script is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
